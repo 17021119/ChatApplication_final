@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56708043201",
+    "firebase_url": "https://svmcchatapp.firebaseio.com",
+    "project_id": "svmcchatapp",
+    "storage_bucket": "svmcchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56708043201:android:c8f8f737dfcd8843461f40",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56708043201-ce8p490f7qt2me4p4fbbaa4ekjh6uac6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapplication",
+            "certificate_hash": "c00b92d7b55b669dc30f4b4c928c8bcdad21daad"
+          }
+        },
+        {
+          "client_id": "56708043201-u0r7gm8mo3fkuamctgg74oaq0rjfncqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt14UNIkZKn5jSx3bgDvZ15UnIrdSdS7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56708043201-u0r7gm8mo3fkuamctgg74oaq0rjfncqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
